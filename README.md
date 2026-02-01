@@ -36,7 +36,7 @@ A comprehensive Islamic Athkar (remembrance) application with prayer times, Qibl
 #### Option 1: Direct Use
 1. Clone the repository:
 ```bash
-git clone https://github.com/AlBaraa-1/athkar_applacation.git
+git clone https://github.com/AlBaraa63/Athkar-Application.git
 cd athkar_applacation
 ```
 
@@ -168,8 +168,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**AlBaraa-1**
-- GitHub: [@AlBaraa-1](https://github.com/AlBaraa-1)
+**AlBaraa63**
+- GitHub: [@AlBaraa63](https://github.com/AlBaraa63)
 
 ## 🙏 Acknowledgments
 
